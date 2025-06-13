@@ -34,6 +34,8 @@ Customer churn is a critical concern for subscription-based businesses like tele
 ### 🔹 Churn Distribution
 
 ![Churn Distribution](path/to/churn_distribution.png)
+![tenure plot distribution](https://github.com/user-attachments/assets/2a8161db-2fc8-4217-be31-4383f3ea9fbc)
+
 
 > Most customers do not churn, highlighting a class imbalance issue.
 
