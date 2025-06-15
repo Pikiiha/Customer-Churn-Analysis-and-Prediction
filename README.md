@@ -84,6 +84,8 @@ Customer churn is a critical concern for subscription-based businesses like tele
 ![Confusion Matrix](path/to/confusion_matrix.png)  
 ![ROC Curve](path/to/roc_curve.png)  
 ![Precision-Recall Curve](path/to/precision_recall_curve.png)
+![Gbm and roc and precision image](https://github.com/user-attachments/assets/7f95319c-63a2-4d65-b1f8-5196d0c0389c)
+
 
 ---
 
@@ -106,6 +108,9 @@ Customer churn is a critical concern for subscription-based businesses like tele
 ---
 
 ## 🚀 Feature Importance
+Feature_importance.png
+![Uploading Feature importance image.png…]()
+
 
 🔝 Top Contributing Features
 Feature	Importance	Interpretation
